@@ -52,7 +52,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,bash,c,express" />
     <img src="https://skillicons.dev/icons?i=react,bootstrap,symfony,tailwind,django" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,linux,mysql,pytorch,postman,vscode,visualstudio,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,linux,mysql,pytorch,postman,vscode,visualstudio,git,github,anaconda,discord" /><br>
 </div>
 
 <br/><br/><br/><hr/><br/><br/>
