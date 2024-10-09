@@ -2,6 +2,11 @@
     <img src="https://komarev.com/ghpvc/?username=aitbenmoumen&label=Profile%20views&color=2196f3&style=flat" alt="aitbenmoumen" /> 
 </p>
 
+<!-- Add header image here -->
+<p align="center">
+    <img src="static/7header.png" alt="Header Image" width="600"/>
+</p>
+
 <p align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&color=36bcf7&center=true&vCenter=true&repeat=false&width=556&height=70&lines=Adam+Ait+Ben+Moumen+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
@@ -16,7 +21,7 @@
 <br/>
 
 <div align="center">
- 🌱 I’m currently learning **BI, JavaEE **
+ 🌱 I’m currently learning **BI, JavaEE**
 
  💬 Ask me about **Java, Python, C/C++/C#... or anything [here in one of my socials]**
 
@@ -81,11 +86,15 @@
 <div align="center">
  👨‍🎓 **Ait Ben Moumen Adam, EMSI student, Morocco.**
 
- 🛠 **4-year IT & networks engineering student**
+ 🛠 **4th year IT & networks engineering student**
 
  🚀 **Eager to refine skills, contribute to computer science.**
 </div>
 
 <hr/>
 
-<br/><br/><hr/><br/><br/>
+<!-- Add footer image here -->
+<p align="center">
+    <img src="static/footer.svg" alt="Footer Image" width="600"/>
+</p>
+
